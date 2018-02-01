@@ -21,4 +21,4 @@ this function will execute only if it wasn't executed before with same argument
 or, it's source was changed
 result will be saved in file, and fetched next time you call function
 
-after compliting development simply remove 'from saver import saver', '@saver("filename")' and file "filename"
+after compliting development simply remove `python from saver import saver`, `@saver("filename")` and file "filename"
